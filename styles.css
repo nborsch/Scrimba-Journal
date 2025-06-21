@@ -177,6 +177,39 @@ nav ul {
 
 }
 
+/* -- */
+
+.recent {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    width: 100%;
+}
+
+/* About me */
+
+.about-me {
+    margin: 0 auto;
+}
+
+.about-me img {
+    width: 30%;
+    max-width: 300px;
+    border-radius: 50%;
+}
+
+.about-me p {
+    font-size: 0.875rem;
+    margin-bottom: 30px;
+}
+
+.about-me p:first-of-type {
+    margin-bottom: 40px;
+}
+
+.about-me h2 {
+    font-size: 18px;
+}
 
 
 /* Footer */
