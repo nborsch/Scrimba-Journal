@@ -50,6 +50,7 @@ nav {
     align-items: center;
 
     padding: 1.3em 0;
+    border: 2px solid greenyellow;
 }
 
 nav a {
@@ -190,6 +191,7 @@ nav ul {
 
 .about-me {
     margin: 0 auto;
+    padding: 0 25px;
 }
 
 .about-me img {
