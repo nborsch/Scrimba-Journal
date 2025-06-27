@@ -1,1 +1,1 @@
-Readme for Scrimba Learning Journal Project. GitHub practice
+My take on Scrimba's Learning Journal solo project. GitHub practice.
